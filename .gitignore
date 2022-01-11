@@ -3,4 +3,4 @@
 *.log
 *.tmp
 *.csv
-/.idea/*
+*.idea/*
